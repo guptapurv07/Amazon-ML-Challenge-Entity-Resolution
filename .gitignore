@@ -1,0 +1,17 @@
+# competition data and everything derived from it: never commit
+dataset/
+work/
+output/
+inputs/
+*.tsv
+*.parquet
+*.joblib
+*.npy
+*.zip
+
+# environment
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
